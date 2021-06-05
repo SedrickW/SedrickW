@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SedrickW
-- 👀 I’m interested in  C++ and RaspberryPi's 
-- 🌱 I’m currently working on a bi-weekly scheduler.
+- 👀 I’m interested in  C++  
+- 🌱 I’m currently working on a unity ant simulator.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me... on twitter @SedricWebb
 
